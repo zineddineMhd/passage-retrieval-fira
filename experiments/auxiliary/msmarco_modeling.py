@@ -767,10 +767,10 @@ print("Exports enregistrés dans :", ARTIFACT_DIR_M2)
 display(df_summary)
 
 # %%
-Measure MAP P@1 P@10
-QL 0.021 0.148 0.057
-SDM 0.020 0.107 0.060
-QL-Interpolated 0.022 0.073 0.062
+# Measure MAP P@1 P@10
+# QL 0.021 0.148 0.057
+# SDM 0.020 0.107 0.060
+# QL-Interpolated 0.022 0.073 0.062
 
 # %% [markdown]
 # ## Interprétation recommandée
