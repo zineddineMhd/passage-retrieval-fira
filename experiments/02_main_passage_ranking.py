@@ -997,7 +997,8 @@ display(metrics_window)
 
 # %%
 # =====================================================================
-# 15) Table finale principale + exports# =====================================================================
+# 15) Table finale principale + exports
+# =====================================================================
 # Table demandée dans le rapport : on renomme CharMAP/CharP@k en MAP/P@k
 # parce que l'évaluation principale est article-like au niveau caractère.
 
